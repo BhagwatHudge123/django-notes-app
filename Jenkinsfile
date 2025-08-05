@@ -47,7 +47,7 @@ pipeline{
            //      }
        //   }  
       // }
-         
+         //my comment
         stage("Deploy"){
             steps{
                 echo "This is deploying the code"
