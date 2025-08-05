@@ -47,7 +47,7 @@ pipeline{
            //      }
        //   }  
       // }
-         //my todays latests comment
+         //my todays latests commentsss
         stage("Deploy"){
             steps{
                 echo "This is deploying the code"
